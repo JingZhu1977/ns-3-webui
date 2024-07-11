@@ -7,6 +7,11 @@ The ns-3 WebUI is a web application designed to display ns-3 example scripts (wi
 The ns-3 WebUI is designed using [Next.js](https://nextjs.org/) and the [shadcn/ui](https://ui.shadcn.com/) framework.
 
 User authentication, e.g., login/logout pages, are based on [Lucia](https://lucia-auth.com/) and the sqlite3 database. Download the [DB Browser for SQLite](https://sqlitebrowser.org/) to manage the `main.db` database file.
+## Install nodejs 
+
+install nodejs (v22.2.0) with nvm (option #3
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+
 
 ## Install ns-3
 
